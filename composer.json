@@ -1,6 +1,6 @@
 {
   "$schema": "https://getcomposer.org/schema.json",
-  "name": "ext/dev-template-php",
+  "name": "skills/php",
   "description": "PHP Project Template",
   "type": "project",
   "license": "MIT",
